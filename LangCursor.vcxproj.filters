@@ -30,28 +30,34 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="ibeam7uaUP.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7de.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7deUP.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7he.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7heUP.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7pl.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7plUP.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ibeam7ua.cur">
+      <Filter>Resource Files</Filter>
+    </None>
     <None Include="ibeam7en.cur">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="ibeam7ru.cur">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="arrow7ru.cur">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="arrow7en.cur">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="arrow7enUP.cur">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="arrow7ruUP.cur">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="ibeam7enUP.cur">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="ibeam7ruUP.cur">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

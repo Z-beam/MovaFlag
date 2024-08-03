@@ -180,14 +180,16 @@
     <ResourceCompile Include="resources.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="arrow7en.cur" />
-    <None Include="arrow7enUP.cur" />
-    <None Include="arrow7ru.cur" />
-    <None Include="arrow7ruUP.cur" />
+    <None Include="ibeam7de.cur" />
+    <None Include="ibeam7deUP.cur" />
     <None Include="ibeam7en.cur" />
     <None Include="ibeam7enUP.cur" />
-    <None Include="ibeam7ru.cur" />
-    <None Include="ibeam7ruUP.cur" />
+    <None Include="ibeam7he.cur" />
+    <None Include="ibeam7heUP.cur" />
+    <None Include="ibeam7pl.cur" />
+    <None Include="ibeam7plUP.cur" />
+    <None Include="ibeam7ua.cur" />
+    <None Include="ibeam7uaUP.cur" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
