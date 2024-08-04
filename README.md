@@ -1,6 +1,7 @@
 Застосунок для відображення мови біля курсору.
 
-![Timeline 1](https://github.com/user-attachments/assets/10127a9b-2f26-4330-8bf3-6a1b5b8cf1cc)
+![001](https://github.com/user-attachments/assets/50c53634-716d-4a0c-9ea4-903e2a5aa0f1)
+
 
 Мови, що мають прапорці:
 
@@ -16,8 +17,7 @@
 
 Є можливість вимикати застосунок у треї:
 
-![Timeline 2](https://github.com/user-attachments/assets/6653af73-8732-4d5f-8a0d-68023e409aec)
-
+![002](https://github.com/user-attachments/assets/8d334f11-4294-4870-a110-91f7a07b68f4)
 
 Для автозапуску застосунка розмістіть ярлик на Mova ось тут: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 
